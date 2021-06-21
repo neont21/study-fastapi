@@ -35,6 +35,19 @@ To handle password hashes,
 $ pip3 install passlib[bcrypt]
 ```
 
+To use database,
+
+```bash
+$ pip3 install SQLAlchemy
+```
+
+To use PostgreSQL,
+(It requires `apt install postgresql libpq-dev` in Ubuntu)
+
+```bash
+$ pip3 install psycopg2
+```
+
 Skeletone template
 ===
 
