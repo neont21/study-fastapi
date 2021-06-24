@@ -48,6 +48,12 @@ To use PostgreSQL,
 $ pip3 install psycopg2
 ```
 
+To serve the static files,
+
+```bash
+$ pips install aiofiles
+```
+
 Skeletone template
 ===
 
